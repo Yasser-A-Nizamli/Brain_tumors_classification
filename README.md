@@ -1,6 +1,6 @@
 # Improving Transfer Learning Performance for Abnormality Detection in Brain MRI Images Using Feature Optimization Techniques
 
-Publisher: IEEE
+**Publisher: IEEE
 
 Authors: Yasser A. Nizamli; Anton Yu. Filatov
 
